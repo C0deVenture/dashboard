@@ -63,7 +63,7 @@ Start the Laravel development server (first terminal)
 php artisan serve
 ```
 
-Frontend assets (second terminal) 
+Start the frontend development server (second terminal) 
 
 ```bash
 npm run dev
